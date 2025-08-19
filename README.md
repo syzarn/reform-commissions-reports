@@ -60,7 +60,7 @@ And if you have too much money lying around, choose (arguably) the best option, 
 
 ## Acknowledgements
 
-**Ali Riaz**<br>Head of the Constitutional Reform Commission<br><br>For personally taking the initiative to make this project possible. His enthusiasm and commitment were instrumental in bringing these documents into a publicly accessible and analyzable format.
+**Ali Riaz**<br>Political Scientist & Writer<br>Distinguished Professor, Illinois State University<br>Head, Constitutional Reform Commission<br>Vice-Chairman, National Consensus Commission<br><br>For personally taking the initiative to make this project possible. His enthusiasm and commitment were instrumental in bringing these documents into a publicly accessible and analyzable format.
 
 ## License
 The reports are official government publications. This repository only provides them in Markdown for research, analyze and public interest purposes.  
