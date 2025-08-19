@@ -30,8 +30,11 @@ For the best experience, open the files in **[Visual Studio Code](https://code.v
 
 If you prefer a GitHub-style preview, you may use:  
 - **[GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)** by *Matt Bierner*  
+<br>
 
-And if you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.org/)** by *KDE* is for you.
+If you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.org/)** by *KDE* is for you.
+
+And if you have too much money lying around, choose (arguably) the best option **[Typora](https://typora.io/)** by *Typora*.
 
 ### Keybindings for VS Code
 - **Open Preview**:   
