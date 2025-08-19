@@ -31,7 +31,7 @@ For the best experience, open the files in **[Visual Studio Code](https://code.v
 If you prefer a GitHub-style preview, you may use:  
 - **[GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)** by *Matt Bierner*  
 
-And if you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.org/)** by KDE is for you.
+And if you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.org/)** by *KDE* is for you.
 
 ### Keybindings for VS Code
 - **Open Preview**:   
@@ -40,6 +40,7 @@ And if you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.or
 - **Open Preview to the Side**:  
   - Windows/Linux: `Ctrl` + `K` `V`
   - macOS: `⌘` + `K` `V`    
+
 Alternatively:  
 - Right-click the editor tab and select **Open Preview**.  
 - Use the Command Palette (`Ctrl` + `Shift` + `P` or `⌘` + `⇧` + `P`) and run **Markdown: Open Preview to the Side** command.  
