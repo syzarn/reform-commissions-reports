@@ -4,18 +4,23 @@ This repository hosts recent **Bangladeshi Reform Commission reports** (converte
 The goal is to make these important documents easier to read, search, analyze and share.
 
 ## Contents
-[a star (*) next to a name means that the file is yet to be uploaded.]
-- Constitutional Reform Commission*
-- Judicial Reform Commission*
-- Electoral System Reform Commission*
-- Anti-Corruption Reform Commission*
-- Police Reform Commission
-- Public Administration Reform Commission*
-- Local Government Reform Commission*
-- Health Affairs Reform Commission*
-- Women's Affairs Reform Commission*
-- Labour Rights Reform Commission*
-- Media Reform Commission*
+- Constitutional Reform Commission<sup>*</sup>
+- Judicial Reform Commission<sup>†</sup>
+- Electoral System Reform Commission<sup>†</sup>
+- Anti-Corruption Reform Commission<sup>†</sup>
+- Police Reform Commission<sup>†</sup>
+- Public Administration Reform Commission<sup>‡</sup>
+- Local Government Reform Commission<sup>#</sup>
+- Health Affairs Reform Commission<sup>#</sup>
+- Women's Affairs Reform Commission<sup>#</sup>
+- Labour Rights Reform Commission<sup>#</sup>
+- Media Reform Commission<sup>#</sup>
+
+### Legend
+- `*` — Directly involved in the project.  
+- `†` — Project formally sanctioned by the respective commission.  
+- `‡` — Project formally sanctioned, but the final documents were not submitted or handed over.  
+- `#` — Declined the request to participate in this project.
 
 ## Note on Formatting
 The page formatting and divisions in these Markdown files **may not** match the book or PDF copies users have in hand.  
@@ -52,6 +57,10 @@ And if you have too much money lying around, choose (arguably) the best option, 
 - To make the reports publicly accessible
 - To enable text-based analysis
 - To support research and review
+
+## Acknowledgements
+
+**Ali Riaz**<br>Head of the Constitutional Reform Commission<br>For personally taking the initiative to make this project possible. His enthusiasm and commitment were instrumental in bringing these documents into a publicly accessible and analyzable format.
 
 ## License
 The reports are official government publications. This repository only provides them in Markdown for research, analyze and public interest purposes.  
