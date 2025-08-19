@@ -3,9 +3,9 @@
 This repository hosts recent **Bangladeshi Reform Commission reports** (converted into Markdown format) for public access and review.  
 The goal is to make these important documents easier to read, search, analyze and share.
 
-## Contents
+## Reform Commissions
 - Constitutional Reform Commission<sup>*</sup>
-- Judicial Reform Commission<sup>†</sup>
+- Judicial Reform Commission<sup>†</sup><sup>A</sup>
 - Electoral System Reform Commission<sup>†</sup>
 - Anti-Corruption Reform Commission<sup>†</sup>
 - Police Reform Commission<sup>†</sup>
@@ -21,6 +21,7 @@ The goal is to make these important documents easier to read, search, analyze an
 - `†` — Project formally sanctioned by the respective commission.  
 - `‡` — Project formally sanctioned, but the final documents were not submitted or handed over.  
 - `#` — Declined the request to participate in this project.
+- `A` — Abridged
 
 ## Note on Formatting
 The page formatting and divisions in these Markdown files **may not** match the book or PDF copies users have in hand.  
