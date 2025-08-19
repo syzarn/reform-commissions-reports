@@ -5,7 +5,7 @@ The goal is to make these important documents easier to read, search, analyze an
 
 ## Reform Commissions
 - Constitutional Reform Commission<sup>*</sup>
-- Judicial Reform Commission<sup>†</sup><sup>A</sup>
+- Judiciary Reform Commission<sup>†</sup><sup>A</sup>
 - Electoral System Reform Commission<sup>†</sup>
 - Anti-Corruption Reform Commission<sup>†</sup>
 - Police Reform Commission<sup>†</sup>
