@@ -1,4 +1,4 @@
-# Bangladeshi Reform Commission Reports
+# Reform Commission Reports of Bangladesh
 
 This repository hosts recent **Bangladeshi Reform Commission reports** (converted into Markdown format) for public access and review.  
 The goal is to make these important documents easier to read, search, analyze and share.
