@@ -30,11 +30,6 @@ For the best experience, open the files in **[Visual Studio Code](https://code.v
 
 If you prefer a GitHub-style preview, you may use:  
 - **[GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)** by *Matt Bierner*  
-<br>
-
-If you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.org/)** by *KDE* is for you.
-
-And if you have too much money lying around, choose (arguably) the best option **[Typora](https://typora.io/)** by *Typora*.
 
 ### Keybindings for VS Code
 - **Open Preview**:   
@@ -46,7 +41,12 @@ And if you have too much money lying around, choose (arguably) the best option *
 
 Alternatively:  
 - Right-click the editor tab and select **Open Preview**.  
-- Use the Command Palette (`Ctrl` + `Shift` + `P` or `⌘` + `⇧` + `P`) and run **Markdown: Open Preview to the Side** command.  
+- Use the Command Palette (`Ctrl` + `Shift` + `P` or `⌘` + `⇧` + `P`) and run **Markdown: Open Preview to the Side** command. 
+<br>
+
+If you prefer a lighter solution, **[ghostwriter](https://ghostwriter.kde.org/)** from *KDE* is for you.
+
+And if you have too much money lying around, choose (arguably) the best option, **[Typora](https://typora.io/)** from *Typora*. 
 
 ## Purpose
 - To make the reports publicly accessible
